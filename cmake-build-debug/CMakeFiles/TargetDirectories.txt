@@ -1,0 +1,3 @@
+C:/Users/yoshu/Desktop/studia/Programownie obiektowe/Projekt/Guess-the-number/cmake-build-debug/CMakeFiles/Projekt.dir
+C:/Users/yoshu/Desktop/studia/Programownie obiektowe/Projekt/Guess-the-number/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yoshu/Desktop/studia/Programownie obiektowe/Projekt/Guess-the-number/cmake-build-debug/CMakeFiles/rebuild_cache.dir

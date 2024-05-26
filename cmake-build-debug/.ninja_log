@@ -1,0 +1,8 @@
+# ninja log v5
+2	993	7384356120756960	CMakeFiles/Projekt.dir/main.cpp.obj	e1f76b579d88abdd
+33	1184	7384356122653898	CMakeFiles/Projekt.dir/src/game.cpp.obj	796bf51715721c68
+41	1062	7384356121458651	CMakeFiles/Projekt.dir/src/player.cpp.obj	9197719a2e756664
+29	1295	7384356123776494	CMakeFiles/Projekt.dir/src/generateNumber.cpp.obj	3eafb6dbe0518d11
+0	113	7384357094984483	build.ninja	ed4ba7764b536c53
+37	1061	7384356121448692	CMakeFiles/Projekt.dir/src/computer.cpp.obj	d0266fc2b4caf3e6
+1295	1509	7384356125887985	Projekt.exe	5e044a793e6187e8
