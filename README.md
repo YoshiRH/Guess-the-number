@@ -1,5 +1,5 @@
 # Guess the number
- Simple game where you have to guess the correct number with few modes.
+ Simple game where you have to guess the correct number with few modes and save/load function.
 
 Available modes:
 - Singleplayer
